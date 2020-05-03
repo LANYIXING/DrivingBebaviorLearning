@@ -1,0 +1,25 @@
+[epoch 1,imgs     6] loss: 6.6033401  time: 10.023 s[epoch 1,imgs    21] loss: 40.3627082  time: 25.685 s[epoch 1,imgs    36] loss: 1162.5773537  time: 26.109 s[epoch 1,imgs    51] loss: nan  time: 31.298 s[epoch 1,imgs     6] loss: 3.6237562  time: 10.381 s
+[epoch 1,imgs    21] loss: 67.3403246  time: 26.742 s
+[epoch 1,imgs    36] loss: 842495430500279455097063918764484918490557976589215866028032.0000000  time: 25.794 s
+[epoch 1,imgs    51] loss: nan  time: 25.055 s
+[epoch 1,imgs    66] loss: nan  time: 26.943 s
+[epoch 1,imgs    81] loss: nan  time: 26.105 s
+[epoch 1,imgs    96] loss: nan  time: 24.909 s
+[epoch 1,imgs   111] loss: nan  time: 26.067 s
+[epoch 1,imgs   126] loss: nan  time: 27.111 s
+[epoch 1,imgs   141] loss: nan  time: 34.345 s
+[epoch 1,imgs   156] loss: nan  time: 26.850 s
+[epoch 1,imgs   171] loss: nan  time: 25.963 s
+[epoch 1,imgs   186] loss: nan  time: 25.349 s
+[epoch 1,imgs   201] loss: nan  time: 25.306 s
+[epoch 1,imgs   216] loss: nan  time: 26.248 s
+[epoch 1,imgs   231] loss: nan  time: 26.188 s
+[epoch 1,imgs   246] loss: nan  time: 26.249 s
+[epoch 1,imgs   261] loss: nan  time: 25.102 s
+[epoch 1,imgs   300] loss: 0.0479648  time: 541.495 s
+[epoch 1,imgs   600] loss: 0.0492459  time: 562.241 s
+[epoch 1,imgs   900] loss: 0.0527682  time: 552.004 s
+[epoch 1,imgs  1200] loss: 0.0514518  time: 527.962 s
+[epoch 1,imgs  1500] loss: 0.0553740  time: 503.997 s
+[epoch 1,imgs  1800] loss: 0.0511468  time: 559.082 s
+[epoch 1,imgs  2100] loss: 0.0492345  time: 547.443 s
